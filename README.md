@@ -1,0 +1,1 @@
+<p align="right"><sup><b><a href="A Lightweight Symmetric Encryption - Ethereal Chaos Algorithm Technical Details and Cryptographic Paper.md">English</a></b> 丨 <a href="A Lightweight Symmetric Encryption - Ethereal Chaos Algorithm Technical Details and Cryptographic Paper(Chinese).md">简体中文</a></sup></p>
